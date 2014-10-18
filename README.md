@@ -1,7 +1,7 @@
 pubsub-js-exception-test
 ========================
 
-A small example of exception throwing using PubSubJS
+A small example of exception throwing using [PubSubJS](https://github.com/mroderick/PubSubJS)
 
 This example uses the Web Audio API.
 Once initialized it attempts to stop an oscillator that has not been started, throwing an error.
